@@ -2,6 +2,7 @@ Rencana magang smksa
 - Github
   * membuat akun
   * membuat repository
+  * membuat branch
 - Git
 - Desain UI/UX
   * figma
