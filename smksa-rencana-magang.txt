@@ -2,8 +2,10 @@ Rencana magang smksa
 - Github
   * membuat akun
   * membuat repository
-- Git
+    ^ push
+    ^ pull
 - Desain UI/UX
+  ^ desain apk presensi
 - Framwork Laravel
 - Dasar CRUD Di Laravel MySQL
 - Projek Aplikasi Presensi
