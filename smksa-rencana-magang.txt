@@ -2,6 +2,7 @@ Rencana magang smksa
 - Github
   * membuat akun
   * membuat repository
+- Git
 - Desain UI/UX
 - Framwork Laravel
 - Dasar CRUD Di Laravel MySQL
