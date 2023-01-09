@@ -2,8 +2,11 @@ Rencana magang smksa
 - Github
   * membuat akun
   * membuat repository
+  * membuat branch
 - Git
 - Desain UI/UX
+  * figma
 - Framwork Laravel
+  * laravel 8 
 - Dasar CRUD Di Laravel MySQL
 - Projek Aplikasi Presensi
