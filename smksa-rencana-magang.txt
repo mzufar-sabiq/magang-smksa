@@ -1,0 +1,8 @@
+Rencana magang smksa 
+- Github
+  * membuat akun
+  * membuat repository
+- Desain UI/UX
+- Framwork Laravel
+- Dasar CRUD Di Laravel MySQL
+- Projek Aplikasi Presensi
